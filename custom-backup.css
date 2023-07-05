@@ -79,7 +79,7 @@ text-transform: none;
 	text-decoration: none !important;
 }
 
-.rowofbuttons button a:hover: {
+.rowofbuttons button a:hover {
 	background-color: #fff;
 	color: #879442;
 }
@@ -431,8 +431,8 @@ text-transform: none;
 		max-width: 14ch;	
 	margin-left: 6px;
 	margin-right: 6px;
-padidng-left: 5px;
-	paddign-right: 5px; 
+padding-left: 5px;
+	padding-right: 5px; 
 	float: right;
 }
 
@@ -440,8 +440,8 @@ padidng-left: 5px;
 	max-width: 9ch;
 	margin-left: 6px;
 	margin-right: 6px;
-padidng-left: 5px;
-	paddign-right: 5px; 
+padding-left: 5px;
+	padding-right: 5px; 
 	float: right;
 }
 #yesno-row .yes-btn:hover {
@@ -753,7 +753,7 @@ background-color: #337891;
     margin-left: 10px;
     align-items: center;
     margin-bottom: 16px;
-		 background-color: background-color:  rgb(51, 120, 145, .65); 
+		 background-color: rgb(51, 120, 145, .65); 
    }
    .blue2:hover {
     background-color:  rgb(51, 120, 145, .65); 
